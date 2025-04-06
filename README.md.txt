@@ -1,8 +1,14 @@
-# 🌍 Renewable Energy Dashboard
+# Renewable Energy Dashboard
 
-This Streamlit app visualizes solar, wind, and hydro energy production over time. Built with Python, Plotly, and Streamlit.
+## Overview
+This project provides a dashboard for visualizing renewable energy data, including solar, wind, and hydro power production.
 
-To run locally:
-```bash
-pip install -r requirements.txt
-streamlit run renewable_dashboard.py
+## Features
+- Time-series plots of energy output
+- Proportional contribution of different energy sources
+- Summary statistics of energy production
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CosmicUniverse-arch/renewable-dashboard.git
